@@ -1,3 +1,3 @@
 function any(){
-    alert("Please dont click here");
+    alert("Alerting!");
 }
